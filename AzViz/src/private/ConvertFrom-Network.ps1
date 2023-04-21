@@ -16,6 +16,7 @@ function ConvertFrom-Network {
             "Microsoft.Network/networkSecurityGroups" = 4
             "Microsoft.Network/networkInterfaces"     = 5
             "Microsoft.Compute/virtualMachines"       = 6
+            "Microsoft.Network/privateEndpoints"      = 7
         }
 
         # $Excluded_NetworkObjects = $("Microsoft.Network/virtualNetworks/subnets", "Microsoft.Network/virtualNetworks")
