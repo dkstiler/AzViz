@@ -787,6 +787,7 @@ $Images = @{
     "Microsoft.Network/trafficManagerProfiles"                                                   = "trafficmanagerprofiles.png"
     "Microsoft.Network/virtualNetworkGateways"                                                   = "virtualnetworkgateways.png"
     "Microsoft.Network/virtualNetworks"                                                          = "virtualnetworks.png"
+    "Microsoft.Network/privateEndpoints"                                                         = "privateendpoints.png"
     "Microsoft.OperationsManagement/solutions"                                                   = "solutions.png"
     "Microsoft.ServiceFabric/clusters"                                                           = "servicefabric.png"
     "Microsoft.Sql/instancePools"                                                                = "sqlservers.png"
