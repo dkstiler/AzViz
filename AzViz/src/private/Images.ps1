@@ -358,6 +358,7 @@ $Images = @{
     "Powershellscriptfile"                        = "$PSScriptroot\icons\_Flat Symbols\CnE_Enterprise\Powershellscriptfile.png"
     "Protocol stack"                              = "$PSScriptroot\icons\_Flat Symbols\CnE_Enterprise\Protocol stack.png"
     "Protocolstack"                               = "$PSScriptroot\icons\_Flat Symbols\CnE_Enterprise\Protocolstack.png"
+    "PrivateEndpoints"                              = "$PSScriptroot\icons\_Flat Symbols\CnE_Enterprise\PrivateEndpoints.png"              
     "Queue, general"                              = "$PSScriptroot\icons\_Flat Symbols\CnE_Enterprise\Queue, general.png"
     "Queue,general"                               = "$PSScriptroot\icons\_Flat Symbols\CnE_Enterprise\Queue,general.png"
     "RMS connector"                               = "$PSScriptroot\icons\_Flat Symbols\CnE_Enterprise\RMS connector.png"
