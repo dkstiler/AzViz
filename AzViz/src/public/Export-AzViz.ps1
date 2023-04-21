@@ -240,6 +240,7 @@ function Export-AzViz {
             "Microsoft.Network/networkSecurityGroups" = 4
             "Microsoft.Network/networkInterfaces"     = 5
             "Microsoft.Compute/virtualMachines"       = 6
+            "Microsoft.Network/privateEndpoints"      = 7
         }
 
         Write-CustomHost "Configuring Defaults..." -Indentation 0 -color Magenta -AddTime
