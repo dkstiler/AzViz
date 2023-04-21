@@ -16,6 +16,7 @@ function ConvertFrom-ARM {
             "Microsoft.Network/networkSecurityGroups" = 4
             "Microsoft.Network/networkInterfaces"     = 5
             "Microsoft.Compute/virtualMachines"       = 6
+            "Microsoft.Network/privateEndpoints"      = 7
         }
 
         $Excluded_ARMObjects = $(
